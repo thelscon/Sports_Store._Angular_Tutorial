@@ -22,6 +22,6 @@ import { CheckoutComponent } from "./checkout.component";
                         CheckoutComponent ] ,
     exports : [ StoreComponent , 
                 CartDetailComponent , 
-                CheckoutComponent ]
+                CheckoutComponent ] ,
 } )
 export class StoreModule {}
